@@ -1,0 +1,1 @@
+# Check-If-a-Given-Number-Is-a-Prime-Number
